@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Karthick  
 Welcome to my Data Analytics Portfolio! I specialize in Python, SQL, and BI tools (Power BI/Tableau).  
 
 ## 🚀 Featured Projects  
