@@ -1,2 +1,14 @@
-# data-analytics-portfolio
-This repository showcases my data analytics projects, featuring data cleaning, visualization, and insights using Python, SQL, and BI tools like Tableau/Power BI. Projects include sales analysis, customer churn prediction, and data visualization. Each project includes datasets, code, and key insights. 🚀📊 #DataAnalytics #Python #SQL
+# 👋 Hi, I'm [Your Name]  
+Welcome to my Data Analytics Portfolio! I specialize in Python, SQL, and BI tools (Power BI/Tableau).  
+
+## 🚀 Featured Projects  
+- 📊 **Sales Performance Analysis** – SQL & Power BI  
+- 🔍 **Customer Churn Prediction** – Python & Machine Learning  
+- 📈 **COVID-19 Data Visualization** – Tableau Dashboard  
+
+## 🔧 Skills  
+- Python | SQL | Excel | Power BI | Tableau | Data Cleaning  
+
+
+
+
